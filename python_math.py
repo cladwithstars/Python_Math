@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 """
 Created on Tue Dec 25 08:09:50 2018
 
-@author: macbookair
+@author: Will Morgan
 """
 upTo = 100 #change this constant around for higher upper bound
 
